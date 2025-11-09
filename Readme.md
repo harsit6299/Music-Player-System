@@ -32,3 +32,12 @@ A modular C++ music player built using **Facade**, **Strategy**, and **Adapter**
 - factories/ → DeviceFactory
 - models/ → Song, Playlist
 - main.cpp → Entry point
+
+---
+
+## 👨‍💻 Author
+
+**Harshit Kumar**  
+🎓 *Final Year, B.Tech + M.Tech (ECE)*  
+🏫 *National Institute of Technology, Patna*  
+💼 *Passionate about Full Stack Development, AI, and Scalable System Design*
